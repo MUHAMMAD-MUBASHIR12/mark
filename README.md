@@ -1,5 +1,5 @@
 # mark
 
-[Live Demo on Vercel](https://vercel.com/mubashirs-projects-9c461e4f/mark)
+🔗 **Live Demo on Vercel:** [https://mark-mubishaikh688.vercel.app](https://mark-mubishaikh688.vercel.app)
 
-GitHub Repository: [https://github.com/Muhammad-Mubashir12/mark](https://github.com/Muhammad-Mubashir12/mark)
+📁 **GitHub Repository:** [https://github.com/Muhammad-Mubashir12/mark](https://github.com/Muhammad-Mubashir12/mark)
